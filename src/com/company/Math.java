@@ -9,6 +9,7 @@ public class Math {
 
     public int sub(int first, int second){
         int res = first - second;
+        System.out.println("Detta gör en subtraktion");
         return res;
     }
 
