@@ -8,7 +8,7 @@ public class Math {
     }
 
     public int sub(int first, int second){
-        int res = first - second;
+        int res = first - second;git
         System.out.println("Detta gör en subtraktion");
         return res;
     }
